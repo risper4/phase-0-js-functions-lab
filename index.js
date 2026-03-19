@@ -17,6 +17,13 @@ function findMaximum (num1, num2){
 }
 
 
+function isPalindrome (word){
+    const palindrome = word.split("").reverse().join("")
+    return word === palindrome
+}
+
+
+
 
 
 
