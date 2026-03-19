@@ -11,6 +11,11 @@ function convertToUpperCase (text){
 }
 
 
+function findMaximum (num1, num2){
+    const largerNum = Math.max(num1, num2)
+    return largerNum
+}
+
 
 
 
