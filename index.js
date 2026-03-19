@@ -5,6 +5,13 @@ function calculateTax (amount){
 }
 
 
+function convertToUpperCase (text){
+    const upperCase = (convertToUpperCase(text))
+    return upperCase
+}
+
+
+
 
 
 
