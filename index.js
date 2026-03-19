@@ -1,4 +1,14 @@
 
+function calculateTax (amount){
+    const taxValue = amount * (10/100)
+    return taxValue
+}
+
+
+
+
+
+
 
 
 
